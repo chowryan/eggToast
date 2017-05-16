@@ -1,4 +1,4 @@
-# Photo Hungry
+# Egg Toast
 
 A photo-first approach to figuring out what to eat.
 
